@@ -103,9 +103,9 @@ Chi tiết đầy đủ (kiến trúc PE array, double-buffer, tiling, testbench
 ## 5. IP Softmax — tóm tắt
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/069db86a-0217-4891-9d23-9b9ed07a599e" alt="Sơ đồ FSM IP LINEAR" width="700">
+  <img src="https://github.com/user-attachments/assets/069db86a-0217-4891-9d23-9b9ed07a599e" alt="Sơ đồ FSM IP SOFTMAX" width="700">
   <br>
-  <em>Sơ đồ FSM IP LINEAR</em>
+  <em>Sơ đồ FSM IP SOFTMAX</em>
 </p>
 
 **Tham số:**
