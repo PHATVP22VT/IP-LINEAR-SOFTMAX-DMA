@@ -9,6 +9,7 @@
 5. [IP Softmax — tóm tắt](#5-ip-softmax--tóm-tắt)
 6. [Trình tự vận hành phần mềm (bare-metal)](#6-trình-tự-vận-hành-phần-mềm-bare-metal)
 7. [Kiểm chứng](#7-kiểm-chứng)
+8. [Kết quả](#8-kết-quả).
 
 ---
 
@@ -191,4 +192,18 @@ Chi tiết đầy đủ (flow tính toán per-cycle, thuật toán reciprocal-di
 - Golden data: `golden_model.py` xuất `golden_score.mem` (input softmax) và `golden_softmax.mem` (kết quả cuối, Q1.15), cùng 2 file `.coe` cho `exp_rom`/`recip_rom`.
 
 ---
+## 8. Kết quả
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9ddefc3-a80e-48d2-ad77-fcec934fc4f8" alt="KẾT QUẢ BARE METAL DMA + IP LINEAR" width="700">
+  <br>
+  <em>KẾT QUẢ BARE METAL DMA + IP LINEAR</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef67266-fff5-45d2-bacc-2d2511215467" alt="KẾT QUẢ BARE METAL DMA + IP LINEAR + IP SOFTMAX" width="700">
+  <br>
+  <em>KẾT QUẢ BARE METAL DMA + IP LINEAR + IP SOFTMAX</em>
+</p>
+
+---
