@@ -71,7 +71,7 @@ SEQ_LEN = D_HEAD = N_PE = DATA_WIDTH = 16
 ## 4. IP Linear (Q×Kᵀ) — tóm tắt
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1335bcb6-672c-4960-a322-016ad2ece4de" alt="Sơ đồ FSM IP LINEAR" width="700">
+  <img src="https://github.com/user-attachments/assets/d3dc4119-d85f-4b44-b08d-5d8aabf59d7a" alt="Sơ đồ FSM IP LINEAR" width="700">
   <br>
   <em>Sơ đồ FSM IP LINEAR</em>
 </p>
