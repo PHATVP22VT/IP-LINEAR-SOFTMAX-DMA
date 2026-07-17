@@ -33,7 +33,7 @@ SEQ_LEN = D_HEAD = N_PE = DATA_WIDTH = 16
 ## 2. Kiến trúc hệ thống
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f48f95b6-1e6c-44ea-88ca-430923f6ba89" alt="Sơ đồ kiến trúc hệ thống" width="700">
+  <img src="https://github.com/user-attachments/assets/90197d86-ffbc-48a5-b931-99e4b7906829" alt="Sơ đồ kiến trúc hệ thống" width="700">
   <br>
   <em>Sơ đồ kiến trúc hệ thống</em>
 </p>
@@ -72,7 +72,7 @@ SEQ_LEN = D_HEAD = N_PE = DATA_WIDTH = 16
 ## 4. IP Linear (Q×Kᵀ) — tóm tắt
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/220a8fce-5650-4778-86c9-3619215b9b4e" alt="Sơ đồ FSM IP LINEAR" width="700">
+  <img src="https://github.com/user-attachments/assets/413d0b3e-ae3a-4b55-87dd-84382f12c2bc" alt="Sơ đồ FSM IP LINEAR" width="700">
   <br>
   <em>Sơ đồ FSM IP LINEAR</em>
 </p>
@@ -104,7 +104,7 @@ Chi tiết đầy đủ (kiến trúc PE array, double-buffer, tiling, testbench
 ## 5. IP Softmax — tóm tắt
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/069db86a-0217-4891-9d23-9b9ed07a599e" alt="Sơ đồ FSM IP SOFTMAX" width="700">
+  <img src="https://github.com/user-attachments/assets/06eb6b05-990c-48bc-9484-df38490e8be0" width="700">
   <br>
   <em>Sơ đồ FSM IP SOFTMAX</em>
 </p>
